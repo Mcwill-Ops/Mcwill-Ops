@@ -23,7 +23,7 @@ I'm a **Computer Engineering student** at *Concordia University*, passionate abo
 ## 🌐 **Get in Touch**
 
 * **LinkedIn:** https://www.linkedin.com/in/mcwill-buikpor
-* **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+* **GitHub:** https://github.com/Mcwill-Ops
 
 ---
 
