@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Mcwill! 👋
 
-<!--
-**Mcwill-Ops/Mcwill-Ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** at *Concordia University*, passionate about software development, embedded systems, and automation. My interests span across building efficient software applications, optimizing low-level assembly programs, and exploring real-time systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Current Projects**
+
+* 🚗 **Car Rental Management System:** A full-featured C++ application with a GUI for seamless vehicle management, using  Inheritance, Polymorphism, File I/O, and Exception Handling to ensure efficient and error-resistant data processing.
+
+---
+
+## 💡 **Skills**
+
+* **Programming:** C++ | ARM Assembly | Bash | UML
+* **Libraries & Frameworks:** STL | Qt
+* **Tools & IDEs:** Git | GitHub | VS Code | Visual Studio | Arduino | Qt Creator
+* **Operating Systems:** Windows | Linux | Android
+* **Embedded Systems:** Digital Logic | Circuit Analysis
+
+---
+
+## 🌐 **Get in Touch**
+
+* **LinkedIn:** https://www.linkedin.com/in/mcwill-buikpor
+* **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+
+---
+
+## ⚽ **Interests**
+
+* Reading | Soccer | Gym and Fitness | Graphic Design
+
+---
